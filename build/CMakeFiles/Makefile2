@@ -63,69 +63,581 @@ CMAKE_BINARY_DIR = /home/user/introduction-to-qt-tasks/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/introduction-to-qt-tasks.exe.dir/all
+all: task1/all
+all: task2/all
+all: task3/all
+all: task4/all
+all: task5/all
+all: task6/all
+all: task7/all
+all: task8/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall:
+preinstall: task1/preinstall
+preinstall: task2/preinstall
+preinstall: task3/preinstall
+preinstall: task4/preinstall
+preinstall: task5/preinstall
+preinstall: task6/preinstall
+preinstall: task7/preinstall
+preinstall: task8/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/introduction-to-qt-tasks.exe.dir/clean
-clean: CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/clean
+clean: task1/clean
+clean: task2/clean
+clean: task3/clean
+clean: task4/clean
+clean: task5/clean
+clean: task6/clean
+clean: task7/clean
+clean: task8/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/introduction-to-qt-tasks.exe.dir
+# Directory level rules for directory task1
 
-# All Build rule for target.
-CMakeFiles/introduction-to-qt-tasks.exe.dir/all: CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/all
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=1,2,3 "Built target introduction-to-qt-tasks.exe"
-.PHONY : CMakeFiles/introduction-to-qt-tasks.exe.dir/all
+# Recursive "all" directory target.
+task1/all: task1/CMakeFiles/task1.dir/all
+.PHONY : task1/all
 
-# Build rule for subdir invocation for target.
-CMakeFiles/introduction-to-qt-tasks.exe.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/introduction-to-qt-tasks.exe.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
-.PHONY : CMakeFiles/introduction-to-qt-tasks.exe.dir/rule
+# Recursive "preinstall" directory target.
+task1/preinstall:
+.PHONY : task1/preinstall
 
-# Convenience name for target.
-introduction-to-qt-tasks.exe: CMakeFiles/introduction-to-qt-tasks.exe.dir/rule
-.PHONY : introduction-to-qt-tasks.exe
-
-# clean rule for target.
-CMakeFiles/introduction-to-qt-tasks.exe.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/clean
-.PHONY : CMakeFiles/introduction-to-qt-tasks.exe.dir/clean
+# Recursive "clean" directory target.
+task1/clean: task1/CMakeFiles/task1.dir/clean
+task1/clean: task1/CMakeFiles/task1_autogen.dir/clean
+.PHONY : task1/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir
+# Directory level rules for directory task2
+
+# Recursive "all" directory target.
+task2/all: task2/CMakeFiles/task2.dir/all
+.PHONY : task2/all
+
+# Recursive "preinstall" directory target.
+task2/preinstall:
+.PHONY : task2/preinstall
+
+# Recursive "clean" directory target.
+task2/clean: task2/CMakeFiles/task2.dir/clean
+task2/clean: task2/CMakeFiles/task2_autogen.dir/clean
+.PHONY : task2/clean
+
+#=============================================================================
+# Directory level rules for directory task3
+
+# Recursive "all" directory target.
+task3/all: task3/CMakeFiles/task3.dir/all
+.PHONY : task3/all
+
+# Recursive "preinstall" directory target.
+task3/preinstall:
+.PHONY : task3/preinstall
+
+# Recursive "clean" directory target.
+task3/clean: task3/CMakeFiles/task3.dir/clean
+task3/clean: task3/CMakeFiles/task3_autogen.dir/clean
+.PHONY : task3/clean
+
+#=============================================================================
+# Directory level rules for directory task4
+
+# Recursive "all" directory target.
+task4/all: task4/CMakeFiles/task4.dir/all
+.PHONY : task4/all
+
+# Recursive "preinstall" directory target.
+task4/preinstall:
+.PHONY : task4/preinstall
+
+# Recursive "clean" directory target.
+task4/clean: task4/CMakeFiles/task4.dir/clean
+task4/clean: task4/CMakeFiles/task4_autogen.dir/clean
+.PHONY : task4/clean
+
+#=============================================================================
+# Directory level rules for directory task5
+
+# Recursive "all" directory target.
+task5/all: task5/CMakeFiles/task5.dir/all
+.PHONY : task5/all
+
+# Recursive "preinstall" directory target.
+task5/preinstall:
+.PHONY : task5/preinstall
+
+# Recursive "clean" directory target.
+task5/clean: task5/CMakeFiles/task5.dir/clean
+task5/clean: task5/CMakeFiles/task5_autogen.dir/clean
+.PHONY : task5/clean
+
+#=============================================================================
+# Directory level rules for directory task6
+
+# Recursive "all" directory target.
+task6/all: task6/CMakeFiles/task6.dir/all
+.PHONY : task6/all
+
+# Recursive "preinstall" directory target.
+task6/preinstall:
+.PHONY : task6/preinstall
+
+# Recursive "clean" directory target.
+task6/clean: task6/CMakeFiles/task6.dir/clean
+task6/clean: task6/CMakeFiles/task6_autogen.dir/clean
+.PHONY : task6/clean
+
+#=============================================================================
+# Directory level rules for directory task7
+
+# Recursive "all" directory target.
+task7/all: task7/CMakeFiles/task7.dir/all
+.PHONY : task7/all
+
+# Recursive "preinstall" directory target.
+task7/preinstall:
+.PHONY : task7/preinstall
+
+# Recursive "clean" directory target.
+task7/clean: task7/CMakeFiles/task7.dir/clean
+task7/clean: task7/CMakeFiles/task7_autogen.dir/clean
+.PHONY : task7/clean
+
+#=============================================================================
+# Directory level rules for directory task8
+
+# Recursive "all" directory target.
+task8/all: task8/CMakeFiles/task8.dir/all
+.PHONY : task8/all
+
+# Recursive "preinstall" directory target.
+task8/preinstall:
+.PHONY : task8/preinstall
+
+# Recursive "clean" directory target.
+task8/clean: task8/CMakeFiles/task8.dir/clean
+task8/clean: task8/CMakeFiles/task8_autogen.dir/clean
+.PHONY : task8/clean
+
+#=============================================================================
+# Target rules for target task1/CMakeFiles/task1.dir
 
 # All Build rule for target.
-CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=4 "Built target introduction-to-qt-tasks.exe_autogen"
-.PHONY : CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/all
+task1/CMakeFiles/task1.dir/all: task1/CMakeFiles/task1_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1.dir/build.make task1/CMakeFiles/task1.dir/depend
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1.dir/build.make task1/CMakeFiles/task1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=1,2,3 "Built target task1"
+.PHONY : task1/CMakeFiles/task1.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/all
+task1/CMakeFiles/task1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task1/CMakeFiles/task1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
-.PHONY : CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/rule
+.PHONY : task1/CMakeFiles/task1.dir/rule
 
 # Convenience name for target.
-introduction-to-qt-tasks.exe_autogen: CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/rule
-.PHONY : introduction-to-qt-tasks.exe_autogen
+task1: task1/CMakeFiles/task1.dir/rule
+.PHONY : task1
 
 # clean rule for target.
-CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/clean
-.PHONY : CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/clean
+task1/CMakeFiles/task1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1.dir/build.make task1/CMakeFiles/task1.dir/clean
+.PHONY : task1/CMakeFiles/task1.dir/clean
+
+#=============================================================================
+# Target rules for target task1/CMakeFiles/task1_autogen.dir
+
+# All Build rule for target.
+task1/CMakeFiles/task1_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1_autogen.dir/build.make task1/CMakeFiles/task1_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1_autogen.dir/build.make task1/CMakeFiles/task1_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=4 "Built target task1_autogen"
+.PHONY : task1/CMakeFiles/task1_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task1/CMakeFiles/task1_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task1/CMakeFiles/task1_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task1/CMakeFiles/task1_autogen.dir/rule
+
+# Convenience name for target.
+task1_autogen: task1/CMakeFiles/task1_autogen.dir/rule
+.PHONY : task1_autogen
+
+# clean rule for target.
+task1/CMakeFiles/task1_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1_autogen.dir/build.make task1/CMakeFiles/task1_autogen.dir/clean
+.PHONY : task1/CMakeFiles/task1_autogen.dir/clean
+
+#=============================================================================
+# Target rules for target task2/CMakeFiles/task2.dir
+
+# All Build rule for target.
+task2/CMakeFiles/task2.dir/all: task2/CMakeFiles/task2_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2.dir/build.make task2/CMakeFiles/task2.dir/depend
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2.dir/build.make task2/CMakeFiles/task2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=5,6,7 "Built target task2"
+.PHONY : task2/CMakeFiles/task2.dir/all
+
+# Build rule for subdir invocation for target.
+task2/CMakeFiles/task2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task2/CMakeFiles/task2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task2/CMakeFiles/task2.dir/rule
+
+# Convenience name for target.
+task2: task2/CMakeFiles/task2.dir/rule
+.PHONY : task2
+
+# clean rule for target.
+task2/CMakeFiles/task2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2.dir/build.make task2/CMakeFiles/task2.dir/clean
+.PHONY : task2/CMakeFiles/task2.dir/clean
+
+#=============================================================================
+# Target rules for target task2/CMakeFiles/task2_autogen.dir
+
+# All Build rule for target.
+task2/CMakeFiles/task2_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2_autogen.dir/build.make task2/CMakeFiles/task2_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2_autogen.dir/build.make task2/CMakeFiles/task2_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=8 "Built target task2_autogen"
+.PHONY : task2/CMakeFiles/task2_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task2/CMakeFiles/task2_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task2/CMakeFiles/task2_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task2/CMakeFiles/task2_autogen.dir/rule
+
+# Convenience name for target.
+task2_autogen: task2/CMakeFiles/task2_autogen.dir/rule
+.PHONY : task2_autogen
+
+# clean rule for target.
+task2/CMakeFiles/task2_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2_autogen.dir/build.make task2/CMakeFiles/task2_autogen.dir/clean
+.PHONY : task2/CMakeFiles/task2_autogen.dir/clean
+
+#=============================================================================
+# Target rules for target task3/CMakeFiles/task3.dir
+
+# All Build rule for target.
+task3/CMakeFiles/task3.dir/all: task3/CMakeFiles/task3_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3.dir/build.make task3/CMakeFiles/task3.dir/depend
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3.dir/build.make task3/CMakeFiles/task3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=9,10,11 "Built target task3"
+.PHONY : task3/CMakeFiles/task3.dir/all
+
+# Build rule for subdir invocation for target.
+task3/CMakeFiles/task3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task3/CMakeFiles/task3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task3/CMakeFiles/task3.dir/rule
+
+# Convenience name for target.
+task3: task3/CMakeFiles/task3.dir/rule
+.PHONY : task3
+
+# clean rule for target.
+task3/CMakeFiles/task3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3.dir/build.make task3/CMakeFiles/task3.dir/clean
+.PHONY : task3/CMakeFiles/task3.dir/clean
+
+#=============================================================================
+# Target rules for target task3/CMakeFiles/task3_autogen.dir
+
+# All Build rule for target.
+task3/CMakeFiles/task3_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3_autogen.dir/build.make task3/CMakeFiles/task3_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3_autogen.dir/build.make task3/CMakeFiles/task3_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=12 "Built target task3_autogen"
+.PHONY : task3/CMakeFiles/task3_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task3/CMakeFiles/task3_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task3/CMakeFiles/task3_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task3/CMakeFiles/task3_autogen.dir/rule
+
+# Convenience name for target.
+task3_autogen: task3/CMakeFiles/task3_autogen.dir/rule
+.PHONY : task3_autogen
+
+# clean rule for target.
+task3/CMakeFiles/task3_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3_autogen.dir/build.make task3/CMakeFiles/task3_autogen.dir/clean
+.PHONY : task3/CMakeFiles/task3_autogen.dir/clean
+
+#=============================================================================
+# Target rules for target task4/CMakeFiles/task4.dir
+
+# All Build rule for target.
+task4/CMakeFiles/task4.dir/all: task4/CMakeFiles/task4_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4.dir/build.make task4/CMakeFiles/task4.dir/depend
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4.dir/build.make task4/CMakeFiles/task4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=13,14,15 "Built target task4"
+.PHONY : task4/CMakeFiles/task4.dir/all
+
+# Build rule for subdir invocation for target.
+task4/CMakeFiles/task4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task4/CMakeFiles/task4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task4/CMakeFiles/task4.dir/rule
+
+# Convenience name for target.
+task4: task4/CMakeFiles/task4.dir/rule
+.PHONY : task4
+
+# clean rule for target.
+task4/CMakeFiles/task4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4.dir/build.make task4/CMakeFiles/task4.dir/clean
+.PHONY : task4/CMakeFiles/task4.dir/clean
+
+#=============================================================================
+# Target rules for target task4/CMakeFiles/task4_autogen.dir
+
+# All Build rule for target.
+task4/CMakeFiles/task4_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4_autogen.dir/build.make task4/CMakeFiles/task4_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4_autogen.dir/build.make task4/CMakeFiles/task4_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=16 "Built target task4_autogen"
+.PHONY : task4/CMakeFiles/task4_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task4/CMakeFiles/task4_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task4/CMakeFiles/task4_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task4/CMakeFiles/task4_autogen.dir/rule
+
+# Convenience name for target.
+task4_autogen: task4/CMakeFiles/task4_autogen.dir/rule
+.PHONY : task4_autogen
+
+# clean rule for target.
+task4/CMakeFiles/task4_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4_autogen.dir/build.make task4/CMakeFiles/task4_autogen.dir/clean
+.PHONY : task4/CMakeFiles/task4_autogen.dir/clean
+
+#=============================================================================
+# Target rules for target task5/CMakeFiles/task5.dir
+
+# All Build rule for target.
+task5/CMakeFiles/task5.dir/all: task5/CMakeFiles/task5_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5.dir/build.make task5/CMakeFiles/task5.dir/depend
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5.dir/build.make task5/CMakeFiles/task5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=17,18,19 "Built target task5"
+.PHONY : task5/CMakeFiles/task5.dir/all
+
+# Build rule for subdir invocation for target.
+task5/CMakeFiles/task5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task5/CMakeFiles/task5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task5/CMakeFiles/task5.dir/rule
+
+# Convenience name for target.
+task5: task5/CMakeFiles/task5.dir/rule
+.PHONY : task5
+
+# clean rule for target.
+task5/CMakeFiles/task5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5.dir/build.make task5/CMakeFiles/task5.dir/clean
+.PHONY : task5/CMakeFiles/task5.dir/clean
+
+#=============================================================================
+# Target rules for target task5/CMakeFiles/task5_autogen.dir
+
+# All Build rule for target.
+task5/CMakeFiles/task5_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5_autogen.dir/build.make task5/CMakeFiles/task5_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5_autogen.dir/build.make task5/CMakeFiles/task5_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=20 "Built target task5_autogen"
+.PHONY : task5/CMakeFiles/task5_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task5/CMakeFiles/task5_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task5/CMakeFiles/task5_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task5/CMakeFiles/task5_autogen.dir/rule
+
+# Convenience name for target.
+task5_autogen: task5/CMakeFiles/task5_autogen.dir/rule
+.PHONY : task5_autogen
+
+# clean rule for target.
+task5/CMakeFiles/task5_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5_autogen.dir/build.make task5/CMakeFiles/task5_autogen.dir/clean
+.PHONY : task5/CMakeFiles/task5_autogen.dir/clean
+
+#=============================================================================
+# Target rules for target task6/CMakeFiles/task6.dir
+
+# All Build rule for target.
+task6/CMakeFiles/task6.dir/all: task6/CMakeFiles/task6_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6.dir/build.make task6/CMakeFiles/task6.dir/depend
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6.dir/build.make task6/CMakeFiles/task6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=21,22,23 "Built target task6"
+.PHONY : task6/CMakeFiles/task6.dir/all
+
+# Build rule for subdir invocation for target.
+task6/CMakeFiles/task6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task6/CMakeFiles/task6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task6/CMakeFiles/task6.dir/rule
+
+# Convenience name for target.
+task6: task6/CMakeFiles/task6.dir/rule
+.PHONY : task6
+
+# clean rule for target.
+task6/CMakeFiles/task6.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6.dir/build.make task6/CMakeFiles/task6.dir/clean
+.PHONY : task6/CMakeFiles/task6.dir/clean
+
+#=============================================================================
+# Target rules for target task6/CMakeFiles/task6_autogen.dir
+
+# All Build rule for target.
+task6/CMakeFiles/task6_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6_autogen.dir/build.make task6/CMakeFiles/task6_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6_autogen.dir/build.make task6/CMakeFiles/task6_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=24 "Built target task6_autogen"
+.PHONY : task6/CMakeFiles/task6_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task6/CMakeFiles/task6_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task6/CMakeFiles/task6_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task6/CMakeFiles/task6_autogen.dir/rule
+
+# Convenience name for target.
+task6_autogen: task6/CMakeFiles/task6_autogen.dir/rule
+.PHONY : task6_autogen
+
+# clean rule for target.
+task6/CMakeFiles/task6_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6_autogen.dir/build.make task6/CMakeFiles/task6_autogen.dir/clean
+.PHONY : task6/CMakeFiles/task6_autogen.dir/clean
+
+#=============================================================================
+# Target rules for target task7/CMakeFiles/task7.dir
+
+# All Build rule for target.
+task7/CMakeFiles/task7.dir/all: task7/CMakeFiles/task7_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7.dir/build.make task7/CMakeFiles/task7.dir/depend
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7.dir/build.make task7/CMakeFiles/task7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=25,26,27 "Built target task7"
+.PHONY : task7/CMakeFiles/task7.dir/all
+
+# Build rule for subdir invocation for target.
+task7/CMakeFiles/task7.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task7/CMakeFiles/task7.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task7/CMakeFiles/task7.dir/rule
+
+# Convenience name for target.
+task7: task7/CMakeFiles/task7.dir/rule
+.PHONY : task7
+
+# clean rule for target.
+task7/CMakeFiles/task7.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7.dir/build.make task7/CMakeFiles/task7.dir/clean
+.PHONY : task7/CMakeFiles/task7.dir/clean
+
+#=============================================================================
+# Target rules for target task7/CMakeFiles/task7_autogen.dir
+
+# All Build rule for target.
+task7/CMakeFiles/task7_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7_autogen.dir/build.make task7/CMakeFiles/task7_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7_autogen.dir/build.make task7/CMakeFiles/task7_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=28 "Built target task7_autogen"
+.PHONY : task7/CMakeFiles/task7_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task7/CMakeFiles/task7_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task7/CMakeFiles/task7_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task7/CMakeFiles/task7_autogen.dir/rule
+
+# Convenience name for target.
+task7_autogen: task7/CMakeFiles/task7_autogen.dir/rule
+.PHONY : task7_autogen
+
+# clean rule for target.
+task7/CMakeFiles/task7_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7_autogen.dir/build.make task7/CMakeFiles/task7_autogen.dir/clean
+.PHONY : task7/CMakeFiles/task7_autogen.dir/clean
+
+#=============================================================================
+# Target rules for target task8/CMakeFiles/task8.dir
+
+# All Build rule for target.
+task8/CMakeFiles/task8.dir/all: task8/CMakeFiles/task8_autogen.dir/all
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8.dir/build.make task8/CMakeFiles/task8.dir/depend
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8.dir/build.make task8/CMakeFiles/task8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=29,30,31 "Built target task8"
+.PHONY : task8/CMakeFiles/task8.dir/all
+
+# Build rule for subdir invocation for target.
+task8/CMakeFiles/task8.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task8/CMakeFiles/task8.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task8/CMakeFiles/task8.dir/rule
+
+# Convenience name for target.
+task8: task8/CMakeFiles/task8.dir/rule
+.PHONY : task8
+
+# clean rule for target.
+task8/CMakeFiles/task8.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8.dir/build.make task8/CMakeFiles/task8.dir/clean
+.PHONY : task8/CMakeFiles/task8.dir/clean
+
+#=============================================================================
+# Target rules for target task8/CMakeFiles/task8_autogen.dir
+
+# All Build rule for target.
+task8/CMakeFiles/task8_autogen.dir/all:
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8_autogen.dir/build.make task8/CMakeFiles/task8_autogen.dir/depend
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8_autogen.dir/build.make task8/CMakeFiles/task8_autogen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/introduction-to-qt-tasks/build/CMakeFiles --progress-num=32 "Built target task8_autogen"
+.PHONY : task8/CMakeFiles/task8_autogen.dir/all
+
+# Build rule for subdir invocation for target.
+task8/CMakeFiles/task8_autogen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task8/CMakeFiles/task8_autogen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/introduction-to-qt-tasks/build/CMakeFiles 0
+.PHONY : task8/CMakeFiles/task8_autogen.dir/rule
+
+# Convenience name for target.
+task8_autogen: task8/CMakeFiles/task8_autogen.dir/rule
+.PHONY : task8_autogen
+
+# clean rule for target.
+task8/CMakeFiles/task8_autogen.dir/clean:
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8_autogen.dir/build.make task8/CMakeFiles/task8_autogen.dir/clean
+.PHONY : task8/CMakeFiles/task8_autogen.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

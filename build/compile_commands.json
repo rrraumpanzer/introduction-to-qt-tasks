@@ -1,12 +1,82 @@
 [
 {
-  "directory": "/home/user/introduction-to-qt-tasks/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp",
-  "file": "/home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp"
+  "directory": "/home/user/introduction-to-qt-tasks/build/task1",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task1/task1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task1.dir/task1_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task1/task1_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task1/task1_autogen/mocs_compilation.cpp"
 },
 {
-  "directory": "/home/user/introduction-to-qt-tasks/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/main.cpp",
-  "file": "/home/user/introduction-to-qt-tasks/main.cpp"
+  "directory": "/home/user/introduction-to-qt-tasks/build/task1",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task1/task1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task1.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task1/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task1/main.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task2",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task2/task2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task2.dir/task2_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task2/task2_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task2/task2_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task2",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task2/task2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task2.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task2/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task2/main.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task3",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task3/task3_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task3.dir/task3_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task3/task3_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task3/task3_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task3",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task3/task3_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task3.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task3/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task3/main.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task4",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task4/task4_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task4/task4_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task4/task4_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task4",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task4/task4_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task4.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task4/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task4/main.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task5",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task5/task5_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task5.dir/task5_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task5/task5_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task5/task5_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task5",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task5/task5_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task5.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task5/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task5/main.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task6",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task6/task6_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task6.dir/task6_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task6/task6_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task6/task6_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task6",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task6/task6_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task6.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task6/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task6/main.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task7",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task7/task7_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task7.dir/task7_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task7/task7_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task7/task7_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task7",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task7/task7_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task7.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task7/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task7/main.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task8",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task8/task8_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task8.dir/task8_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task8/task8_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/task8/task8_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build/task8",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task8/task8_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task8.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/task8/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task8/main.cpp"
 }
 ]

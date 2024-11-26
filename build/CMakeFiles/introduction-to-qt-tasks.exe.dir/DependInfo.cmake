@@ -9,7 +9,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp" "CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o.d"
-  "/home/user/introduction-to-qt-tasks/main.cpp" "CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o" "gcc" "CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

@@ -1,2 +1,9 @@
 # Hashes of file build rules.
-9e1a4f3d6f94d48d918813c08098221a CMakeFiles/introduction-to-qt-tasks.exe_autogen
+92c644aeeb62c6b9b2c60f1805771446 task1/CMakeFiles/task1_autogen
+7a156f423f40ed38174954c809a85d23 task2/CMakeFiles/task2_autogen
+68ef92e41d6ff64a2a832af93db0d227 task3/CMakeFiles/task3_autogen
+302d77d9c7f1a25fdcc10b3a99e58f94 task4/CMakeFiles/task4_autogen
+0405a8b8f78983329cb23b4c5e0c26c6 task5/CMakeFiles/task5_autogen
+0df95b6477d6bd9f1e5a479b30b93eb9 task6/CMakeFiles/task6_autogen
+e25e621e6d3249506f1da94bcacf9fd9 task7/CMakeFiles/task7_autogen
+a96d99372eaa1eb560dfffaaa12fdcb9 task8/CMakeFiles/task8_autogen

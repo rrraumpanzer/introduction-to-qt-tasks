@@ -4,8 +4,6 @@ file(REMOVE_RECURSE
   "introduction-to-qt-tasks.exe_autogen"
   "CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o"
   "CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o.d"
-  "CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o"
-  "CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o.d"
   "introduction-to-qt-tasks.exe"
   "introduction-to-qt-tasks.exe.pdb"
 )

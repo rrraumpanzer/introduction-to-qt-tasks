@@ -125,10 +125,7 @@
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
 	"SETTINGS_FILE" : "/home/user/introduction-to-qt-tasks/build/CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/AutogenUsed.txt",
-	"SOURCES" : 
-	[
-		[ "/home/user/introduction-to-qt-tasks/main.cpp", "MU", null ]
-	],
+	"SOURCES" : [],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : [],

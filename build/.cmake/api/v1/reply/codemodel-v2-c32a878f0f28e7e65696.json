@@ -1,0 +1,323 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "task1",
+					"jsonFile" : "directory-task1-Debug-fe2c9cf9a02fc010b8bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "task2",
+					"jsonFile" : "directory-task2-Debug-ae614baf4ed9bb0ab913.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task2",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "task3",
+					"jsonFile" : "directory-task3-Debug-76dfda0552f7336f6335.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task3",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "task4",
+					"jsonFile" : "directory-task4-Debug-dee471c3174139cc2a1a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task4",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"build" : "task5",
+					"jsonFile" : "directory-task5-Debug-35c46253eadbbd8de268.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task5",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				},
+				{
+					"build" : "task6",
+					"jsonFile" : "directory-task6-Debug-224e32ef1499dea54c1c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task6",
+					"targetIndexes" : 
+					[
+						10,
+						11
+					]
+				},
+				{
+					"build" : "task7",
+					"jsonFile" : "directory-task7-Debug-f2f444efcc364d88ca45.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task7",
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				},
+				{
+					"build" : "task8",
+					"jsonFile" : "directory-task8-Debug-8b1c1038d7291df37761.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task8",
+					"targetIndexes" : 
+					[
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"name" : "introduction-to-qt-tasks",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "task1::@e4d0983e0b10c261a67f",
+					"jsonFile" : "target-task1-Debug-370826fed3a14d10ab94.json",
+					"name" : "task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "task1_autogen::@e4d0983e0b10c261a67f",
+					"jsonFile" : "target-task1_autogen-Debug-b133474f35de2b08fcb8.json",
+					"name" : "task1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "task2::@f6557a55164303c42d95",
+					"jsonFile" : "target-task2-Debug-112875334a79f755c66e.json",
+					"name" : "task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "task2_autogen::@f6557a55164303c42d95",
+					"jsonFile" : "target-task2_autogen-Debug-6ddc8f9871c65886d65b.json",
+					"name" : "task2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "task3::@e1c12f3ed16437c642db",
+					"jsonFile" : "target-task3-Debug-b301dab3adf10c5cf2ed.json",
+					"name" : "task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "task3_autogen::@e1c12f3ed16437c642db",
+					"jsonFile" : "target-task3_autogen-Debug-0df2eafd39d943b47841.json",
+					"name" : "task3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "task4::@f4ad36a86a7d8f53937e",
+					"jsonFile" : "target-task4-Debug-44581f011a590b25f57f.json",
+					"name" : "task4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "task4_autogen::@f4ad36a86a7d8f53937e",
+					"jsonFile" : "target-task4_autogen-Debug-f3e4f0af4982b2a34887.json",
+					"name" : "task4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "task5::@ebefdce20b5551cacdc4",
+					"jsonFile" : "target-task5-Debug-49b1262d1f0ba518d97a.json",
+					"name" : "task5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "task5_autogen::@ebefdce20b5551cacdc4",
+					"jsonFile" : "target-task5_autogen-Debug-671938577d8c9de068c6.json",
+					"name" : "task5_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "task6::@718054afb31237254b19",
+					"jsonFile" : "target-task6-Debug-73d352584943e30db43f.json",
+					"name" : "task6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "task6_autogen::@718054afb31237254b19",
+					"jsonFile" : "target-task6_autogen-Debug-0fc59eb7c77b0ca84ecd.json",
+					"name" : "task6_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "task7::@8705c6b22d69ad7a1506",
+					"jsonFile" : "target-task7-Debug-39a573520a5682edd5dc.json",
+					"name" : "task7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "task7_autogen::@8705c6b22d69ad7a1506",
+					"jsonFile" : "target-task7_autogen-Debug-0b0798f1147fbcfc3999.json",
+					"name" : "task7_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "task8::@87a964e136eda2b85478",
+					"jsonFile" : "target-task8-Debug-c40190e7ad73604421a9.json",
+					"name" : "task8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "task8_autogen::@87a964e136eda2b85478",
+					"jsonFile" : "target-task8_autogen-Debug-1c02b8f3eca51205b8fe.json",
+					"name" : "task8_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/introduction-to-qt-tasks/build",
+		"source" : "/home/user/introduction-to-qt-tasks"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

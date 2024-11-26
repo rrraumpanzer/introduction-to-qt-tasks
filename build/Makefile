@@ -117,78 +117,212 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named introduction-to-qt-tasks.exe
+# Target rules for targets named task1
 
 # Build rule for target.
-introduction-to-qt-tasks.exe: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 introduction-to-qt-tasks.exe
-.PHONY : introduction-to-qt-tasks.exe
+task1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task1
+.PHONY : task1
 
 # fast build rule for target.
-introduction-to-qt-tasks.exe/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/build
-.PHONY : introduction-to-qt-tasks.exe/fast
+task1/fast:
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1.dir/build.make task1/CMakeFiles/task1.dir/build
+.PHONY : task1/fast
 
 #=============================================================================
-# Target rules for targets named introduction-to-qt-tasks.exe_autogen
+# Target rules for targets named task1_autogen
 
 # Build rule for target.
-introduction-to-qt-tasks.exe_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 introduction-to-qt-tasks.exe_autogen
-.PHONY : introduction-to-qt-tasks.exe_autogen
+task1_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task1_autogen
+.PHONY : task1_autogen
 
 # fast build rule for target.
-introduction-to-qt-tasks.exe_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir/build
-.PHONY : introduction-to-qt-tasks.exe_autogen/fast
+task1_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task1/CMakeFiles/task1_autogen.dir/build.make task1/CMakeFiles/task1_autogen.dir/build
+.PHONY : task1_autogen/fast
 
-introduction-to-qt-tasks.exe_autogen/mocs_compilation.o: introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o
-.PHONY : introduction-to-qt-tasks.exe_autogen/mocs_compilation.o
+#=============================================================================
+# Target rules for targets named task2
 
-# target to build an object file
-introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o
-.PHONY : introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o
+# Build rule for target.
+task2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task2
+.PHONY : task2
 
-introduction-to-qt-tasks.exe_autogen/mocs_compilation.i: introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.i
-.PHONY : introduction-to-qt-tasks.exe_autogen/mocs_compilation.i
+# fast build rule for target.
+task2/fast:
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2.dir/build.make task2/CMakeFiles/task2.dir/build
+.PHONY : task2/fast
 
-# target to preprocess a source file
-introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.i
-.PHONY : introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.i
+#=============================================================================
+# Target rules for targets named task2_autogen
 
-introduction-to-qt-tasks.exe_autogen/mocs_compilation.s: introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.s
-.PHONY : introduction-to-qt-tasks.exe_autogen/mocs_compilation.s
+# Build rule for target.
+task2_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task2_autogen
+.PHONY : task2_autogen
 
-# target to generate assembly for a file
-introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.s
-.PHONY : introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.s
+# fast build rule for target.
+task2_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task2/CMakeFiles/task2_autogen.dir/build.make task2/CMakeFiles/task2_autogen.dir/build
+.PHONY : task2_autogen/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
+#=============================================================================
+# Target rules for targets named task3
 
-# target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o
-.PHONY : main.cpp.o
+# Build rule for target.
+task3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task3
+.PHONY : task3
 
-main.i: main.cpp.i
-.PHONY : main.i
+# fast build rule for target.
+task3/fast:
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3.dir/build.make task3/CMakeFiles/task3.dir/build
+.PHONY : task3/fast
 
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.i
-.PHONY : main.cpp.i
+#=============================================================================
+# Target rules for targets named task3_autogen
 
-main.s: main.cpp.s
-.PHONY : main.s
+# Build rule for target.
+task3_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task3_autogen
+.PHONY : task3_autogen
 
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/introduction-to-qt-tasks.exe.dir/build.make CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.s
-.PHONY : main.cpp.s
+# fast build rule for target.
+task3_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task3/CMakeFiles/task3_autogen.dir/build.make task3/CMakeFiles/task3_autogen.dir/build
+.PHONY : task3_autogen/fast
+
+#=============================================================================
+# Target rules for targets named task4
+
+# Build rule for target.
+task4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task4
+.PHONY : task4
+
+# fast build rule for target.
+task4/fast:
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4.dir/build.make task4/CMakeFiles/task4.dir/build
+.PHONY : task4/fast
+
+#=============================================================================
+# Target rules for targets named task4_autogen
+
+# Build rule for target.
+task4_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task4_autogen
+.PHONY : task4_autogen
+
+# fast build rule for target.
+task4_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4_autogen.dir/build.make task4/CMakeFiles/task4_autogen.dir/build
+.PHONY : task4_autogen/fast
+
+#=============================================================================
+# Target rules for targets named task5
+
+# Build rule for target.
+task5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task5
+.PHONY : task5
+
+# fast build rule for target.
+task5/fast:
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5.dir/build.make task5/CMakeFiles/task5.dir/build
+.PHONY : task5/fast
+
+#=============================================================================
+# Target rules for targets named task5_autogen
+
+# Build rule for target.
+task5_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task5_autogen
+.PHONY : task5_autogen
+
+# fast build rule for target.
+task5_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5_autogen.dir/build.make task5/CMakeFiles/task5_autogen.dir/build
+.PHONY : task5_autogen/fast
+
+#=============================================================================
+# Target rules for targets named task6
+
+# Build rule for target.
+task6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task6
+.PHONY : task6
+
+# fast build rule for target.
+task6/fast:
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6.dir/build.make task6/CMakeFiles/task6.dir/build
+.PHONY : task6/fast
+
+#=============================================================================
+# Target rules for targets named task6_autogen
+
+# Build rule for target.
+task6_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task6_autogen
+.PHONY : task6_autogen
+
+# fast build rule for target.
+task6_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task6/CMakeFiles/task6_autogen.dir/build.make task6/CMakeFiles/task6_autogen.dir/build
+.PHONY : task6_autogen/fast
+
+#=============================================================================
+# Target rules for targets named task7
+
+# Build rule for target.
+task7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task7
+.PHONY : task7
+
+# fast build rule for target.
+task7/fast:
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7.dir/build.make task7/CMakeFiles/task7.dir/build
+.PHONY : task7/fast
+
+#=============================================================================
+# Target rules for targets named task7_autogen
+
+# Build rule for target.
+task7_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task7_autogen
+.PHONY : task7_autogen
+
+# fast build rule for target.
+task7_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task7/CMakeFiles/task7_autogen.dir/build.make task7/CMakeFiles/task7_autogen.dir/build
+.PHONY : task7_autogen/fast
+
+#=============================================================================
+# Target rules for targets named task8
+
+# Build rule for target.
+task8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task8
+.PHONY : task8
+
+# fast build rule for target.
+task8/fast:
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8.dir/build.make task8/CMakeFiles/task8.dir/build
+.PHONY : task8/fast
+
+#=============================================================================
+# Target rules for targets named task8_autogen
+
+# Build rule for target.
+task8_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 task8_autogen
+.PHONY : task8_autogen
+
+# fast build rule for target.
+task8_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f task8/CMakeFiles/task8_autogen.dir/build.make task8/CMakeFiles/task8_autogen.dir/build
+.PHONY : task8_autogen/fast
 
 # Help Target
 help:
@@ -198,14 +332,22 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... introduction-to-qt-tasks.exe_autogen"
-	@echo "... introduction-to-qt-tasks.exe"
-	@echo "... introduction-to-qt-tasks.exe_autogen/mocs_compilation.o"
-	@echo "... introduction-to-qt-tasks.exe_autogen/mocs_compilation.i"
-	@echo "... introduction-to-qt-tasks.exe_autogen/mocs_compilation.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... task1_autogen"
+	@echo "... task2_autogen"
+	@echo "... task3_autogen"
+	@echo "... task4_autogen"
+	@echo "... task5_autogen"
+	@echo "... task6_autogen"
+	@echo "... task7_autogen"
+	@echo "... task8_autogen"
+	@echo "... task1"
+	@echo "... task2"
+	@echo "... task3"
+	@echo "... task4"
+	@echo "... task5"
+	@echo "... task6"
+	@echo "... task7"
+	@echo "... task8"
 .PHONY : help
 
 
