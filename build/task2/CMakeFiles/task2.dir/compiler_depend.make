@@ -325,11 +325,30 @@ task2/CMakeFiles/task2.dir/main.cpp.o: ../task2/main.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h
 
 task2/CMakeFiles/task2.dir/task2_autogen/mocs_compilation.cpp.o: task2/task2_autogen/mocs_compilation.cpp \
   /usr/include/stdc-predef.h
 
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h:
 
@@ -412,6 +431,8 @@ task2/CMakeFiles/task2.dir/task2_autogen/mocs_compilation.cpp.o: task2/task2_aut
 /usr/include/c++/11/ctime:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qobject_impl.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout:
 
 /usr/include/c++/11/bits/stl_multimap.h:
 
@@ -578,6 +599,8 @@ task2/CMakeFiles/task2.dir/task2_autogen/mocs_compilation.cpp.o: task2/task2_aut
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
 /usr/include/c++/11/algorithm:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h:
 
 /usr/include/c++/11/backward/binders.h:
 
@@ -904,6 +927,8 @@ task2/task2_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/ios_base.h:
 
 /usr/include/c++/11/bits/locale_classes.tcc:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h:
 
 /usr/include/c++/11/system_error:
 
