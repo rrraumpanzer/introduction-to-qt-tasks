@@ -6,9 +6,12 @@ int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
     QWidget window;
 
-    window.resize(320, 240);       // Задайте размер окна
+    window.resize(512, 512);       
     window.setWindowTitle("Простое окно");
-    window.show();                 // Отобразите окно
+    QPushButton *closeButton = new QPushButton("Закрыть", &window);
+    closeButton->setGeometry(400, 400, 70, 30);  // Расположение и размер кнопки
+    QObject::connect(closeButton, &QPushButton::clicked, &window, &QWidget::close);
+    window.show();                
 
     return app.exec();
 }
