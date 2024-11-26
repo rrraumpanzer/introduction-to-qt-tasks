@@ -8,7 +8,7 @@
             "program": "${command:cmake.launchTargetPath}",
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
-            "visualizerFile": "${command:qt-cpp.natvis}",
+            "visualizerFile": "/home/user/.vscode-server/data/User/workspaceStorage/bf80377c432ecd370dc2e7b37572e083/tonka3000.qtvsctools/qt.natvis.xml",
             "showDisplayString": true,
             "linux": {
                 "MIMode": "gdb",

@@ -11,11 +11,11 @@ int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
     QWidget window;
 
-    window.resize(320, 240);       // Задайте размер окна
+    window.resize(512, 512);       // Задайте размер окна
     window.setWindowTitle("Заметки");
     QTextEdit *noteEdit = new QTextEdit(&window);
-    QPushButton *saveButton = new QPushButton("Сохранить", &window);
-    QPushButton *loadButton = new QPushButton("Загрузить", &window);
+    QPushButton *saveButton = new QPushButton("Сохранить заметку", &window);
+    QPushButton *loadButton = new QPushButton("Загрузить заметку", &window);
 
     QObject::connect(saveButton, &QPushButton::clicked, [&]() {
     QString fileName = QFileDialog::getSaveFileName(&window, "Сохранить заметку");
