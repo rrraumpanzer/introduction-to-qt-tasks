@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o -o introduction-to-qt-tasks.exe  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

@@ -1,0 +1,4 @@
+/home/user/introduction-to-qt-tasks/build/CMakeFiles/introduction-to-qt-tasks.exe.dir
+/home/user/introduction-to-qt-tasks/build/CMakeFiles/edit_cache.dir
+/home/user/introduction-to-qt-tasks/build/CMakeFiles/rebuild_cache.dir
+/home/user/introduction-to-qt-tasks/build/CMakeFiles/introduction-to-qt-tasks.exe_autogen.dir

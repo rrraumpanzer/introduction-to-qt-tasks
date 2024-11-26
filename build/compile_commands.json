@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/introduction-to-qt-tasks.exe.dir/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/introduction-to-qt-tasks/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/introduction-to-qt-tasks.exe_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/introduction-to-qt-tasks.exe.dir/main.cpp.o -c /home/user/introduction-to-qt-tasks/main.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/main.cpp"
+}
+]
