@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "qpushbutton": "cpp",
-        "qlineedit": "cpp"
+        "qlineedit": "cpp",
+        "qkeyevent": "cpp"
     }
 }

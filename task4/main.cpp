@@ -1,14 +1,13 @@
 #include <QApplication>
-#include <QWidget>
-#include <QPushButton>
+#include "CustomWidget.cpp"
 
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
-    QWidget window;
+    CustomWidget window;
 
-    window.resize(320, 240);       // Задайте размер окна
+    window.resize(512, 512);       
     window.setWindowTitle("Простое окно");
-    window.show();                 // Отобразите окно
+    window.show();                 
 
     return app.exec();
 }

@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/task4_autogen.dir/AutogenUsed.txt"
   "CMakeFiles/task4_autogen.dir/ParseCache.txt"
   "task4_autogen"
+  "CMakeFiles/task4.dir/CustomWidget.cpp.o"
+  "CMakeFiles/task4.dir/CustomWidget.cpp.o.d"
   "CMakeFiles/task4.dir/main.cpp.o"
   "CMakeFiles/task4.dir/main.cpp.o.d"
   "CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.o"

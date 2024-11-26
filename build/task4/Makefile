@@ -144,6 +144,30 @@ task4_autogen/fast:
 	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4_autogen.dir/build.make task4/CMakeFiles/task4_autogen.dir/build
 .PHONY : task4_autogen/fast
 
+CustomWidget.o: CustomWidget.cpp.o
+.PHONY : CustomWidget.o
+
+# target to build an object file
+CustomWidget.cpp.o:
+	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4.dir/build.make task4/CMakeFiles/task4.dir/CustomWidget.cpp.o
+.PHONY : CustomWidget.cpp.o
+
+CustomWidget.i: CustomWidget.cpp.i
+.PHONY : CustomWidget.i
+
+# target to preprocess a source file
+CustomWidget.cpp.i:
+	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4.dir/build.make task4/CMakeFiles/task4.dir/CustomWidget.cpp.i
+.PHONY : CustomWidget.cpp.i
+
+CustomWidget.s: CustomWidget.cpp.s
+.PHONY : CustomWidget.s
+
+# target to generate assembly for a file
+CustomWidget.cpp.s:
+	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task4/CMakeFiles/task4.dir/build.make task4/CMakeFiles/task4.dir/CustomWidget.cpp.s
+.PHONY : CustomWidget.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -202,6 +226,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... task4_autogen"
 	@echo "... task4"
+	@echo "... CustomWidget.o"
+	@echo "... CustomWidget.i"
+	@echo "... CustomWidget.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

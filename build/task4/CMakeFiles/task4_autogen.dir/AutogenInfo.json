@@ -59,6 +59,11 @@
 	"SETTINGS_FILE" : "/home/user/introduction-to-qt-tasks/build/task4/CMakeFiles/task4_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/home/user/introduction-to-qt-tasks/task4/CustomWidget.cpp",
+			"MU",
+			null
+		],
 		[ "/home/user/introduction-to-qt-tasks/task4/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
