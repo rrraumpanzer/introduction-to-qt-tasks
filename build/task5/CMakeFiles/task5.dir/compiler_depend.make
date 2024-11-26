@@ -325,13 +325,40 @@ task5/CMakeFiles/task5.dir/main.cpp.o: ../task5/main.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QGridLayout \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLineEdit \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h
 
 task5/CMakeFiles/task5.dir/task5_autogen/mocs_compilation.cpp.o: task5/task5_autogen/mocs_compilation.cpp \
   /usr/include/stdc-predef.h
 
 
 task5/task5_autogen/mocs_compilation.cpp:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLineEdit:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h:
 
@@ -481,6 +508,8 @@ task5/task5_autogen/mocs_compilation.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h:
+
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
 /usr/include/c++/11/ext/new_allocator.h:
@@ -535,6 +564,8 @@ task5/task5_autogen/mocs_compilation.cpp:
 
 /usr/include/c++/11/cstdlib:
 
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h:
+
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qstringlist.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
@@ -580,6 +611,8 @@ task5/task5_autogen/mocs_compilation.cpp:
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
 /usr/include/c++/11/algorithm:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h:
 
 /usr/include/c++/11/backward/binders.h:
 
@@ -676,6 +709,8 @@ task5/task5_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/uniform_int_dist.h:
 
 /usr/include/wchar.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QGridLayout:
 
 /usr/include/c++/11/bits/cxxabi_init_exception.h:
 
@@ -906,6 +941,8 @@ task5/task5_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/ios_base.h:
 
 /usr/include/c++/11/bits/locale_classes.tcc:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h:
 
 /usr/include/c++/11/system_error:
 

@@ -321,11 +321,7 @@ task4/CMakeFiles/task4.dir/CustomWidget.cpp.o: ../task4/CustomWidget.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtGui/QColor \
-  /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h
 
 task4/CMakeFiles/task4.dir/main.cpp.o: ../task4/main.cpp \
   /usr/include/stdc-predef.h \
@@ -655,11 +651,7 @@ task4/CMakeFiles/task4.dir/main.cpp.o: ../task4/main.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtGui/QColor \
-  /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h
 
 task4/CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.o: task4/task4_autogen/mocs_compilation.cpp \
   /usr/include/stdc-predef.h
@@ -761,8 +753,6 @@ task4/task4_autogen/mocs_compilation.cpp:
 
 /usr/include/c++/11/map:
 
-/usr/include/x86_64-linux-gnu/qt5/QtGui/QColor:
-
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qcontainerfwd.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qvarlengtharray.h:
@@ -860,8 +850,6 @@ task4/task4_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/stl_algobase.h:
 
 /usr/include/c++/11/cwchar:
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/QString:
 
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
 

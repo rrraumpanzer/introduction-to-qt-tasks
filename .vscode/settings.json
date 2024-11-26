@@ -2,6 +2,10 @@
     "files.associations": {
         "qpushbutton": "cpp",
         "qlineedit": "cpp",
-        "qkeyevent": "cpp"
+        "qkeyevent": "cpp",
+        "qgridlayout": "cpp",
+        "qvboxlayout": "cpp",
+        "qtextstream": "cpp",
+        "qtextedit": "cpp"
     }
 }

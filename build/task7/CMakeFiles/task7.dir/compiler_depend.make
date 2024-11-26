@@ -325,13 +325,75 @@ task7/CMakeFiles/task7.dir/main.cpp.o: ../task7/main.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTextEdit \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextedit.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextdocument.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qurl.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMenuBar \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenubar.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenu.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaction.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qactiongroup.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/QFile \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QFileDialog \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfiledialog.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qdir.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfileinfo.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/QTextStream \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qtextstream.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h
 
 task7/CMakeFiles/task7.dir/task7_autogen/mocs_compilation.cpp.o: task7/task7_autogen/mocs_compilation.cpp \
   /usr/include/stdc-predef.h
 
 
 task7/task7_autogen/mocs_compilation.cpp:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qtextstream.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/QTextStream:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qdir.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfiledialog.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/QFile:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qactiongroup.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaction.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qurl.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h:
 
@@ -350,6 +412,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/align.h:
 
 /usr/include/c++/11/bits/stl_raw_storage_iter.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qpixmap.h:
 
@@ -372,6 +436,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qpolygon.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qmatrix.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextedit.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qbrush.h:
 
@@ -415,6 +481,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qobject_impl.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout:
+
 /usr/include/c++/11/bits/stl_multimap.h:
 
 /usr/include/c++/11/bits/stl_map.h:
@@ -422,6 +490,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/stl_tree.h:
 
 /usr/include/c++/11/map:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTextEdit:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qcontainerfwd.h:
 
@@ -481,6 +551,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h:
+
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
 /usr/include/c++/11/ext/new_allocator.h:
@@ -535,6 +607,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 
 /usr/include/c++/11/cstdlib:
 
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h:
+
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qstringlist.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
@@ -544,6 +618,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/stl_pair.h:
 
 /usr/include/c++/11/ext/atomicity.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenubar.h:
 
 /usr/include/c++/11/bits/locale_classes.h:
 
@@ -581,6 +657,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 
 /usr/include/c++/11/algorithm:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h:
+
 /usr/include/c++/11/backward/binders.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h:
@@ -614,6 +692,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h:
 
 /usr/include/c++/11/tuple:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextdocument.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
@@ -709,6 +789,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 
 /usr/include/c++/11/new:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QFileDialog:
+
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
@@ -747,6 +829,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 
 /usr/include/c++/11/bits/concept_check.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h:
+
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
 /usr/include/c++/11/bits/predefined_ops.h:
@@ -772,6 +856,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/c++/11/bits/char_traits.h:
 
 /usr/include/asm-generic/errno-base.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenu.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
@@ -907,7 +993,11 @@ task7/task7_autogen/mocs_compilation.cpp:
 
 /usr/include/c++/11/bits/locale_classes.tcc:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h:
+
 /usr/include/c++/11/system_error:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMenuBar:
 
 /usr/include/c++/11/cstddef:
 
@@ -936,6 +1026,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qstringalgorithms.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qfileinfo.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qstringview.h:
 
