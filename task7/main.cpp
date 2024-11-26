@@ -7,20 +7,25 @@
 #include <QFileDialog>
 #include <QTextStream>
 #include <QVBoxLayout>
+#include <QMainWindow>
 
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
-    QWidget window;
+    QMainWindow window;
 
-    window.resize(320, 240);       // Задайте размер окна
-    window.setWindowTitle("Простое окно");
+    window.resize(512, 512);
+    window.setWindowTitle("Простой текстовый редактор");
 
-    QTextEdit *textEdit = new QTextEdit(&window);
-    QMenuBar *menuBar = new QMenuBar(&window);
+    QTextEdit *textEdit = new QTextEdit();
+    window.setCentralWidget(textEdit);
+    QMenuBar *menuBar = new QMenuBar();
+    window.setMenuBar(menuBar);
     QMenu *fileMenu = menuBar->addMenu("Файл");
     QAction *openAction = fileMenu->addAction("Открыть");
     QAction *saveAction = fileMenu->addAction("Сохранить");
     
+    menuBar->setDefaultUp(false);
+
     QObject::connect(openAction, &QAction::triggered, [&]() {
     QString fileName = QFileDialog::getOpenFileName(&window, "Открыть файл");
     QFile file(fileName);
@@ -39,13 +44,7 @@ int main(int argc, char *argv[]) {
             out << textEdit->toPlainText();
         }
     });
-
-    QVBoxLayout *mainLayout = new QVBoxLayout;
-    mainLayout->addWidget(textEdit);
-    mainLayout->addWidget(menuBar);
-    mainLayout->addWidget(fileMenu);
-    window.setLayout(mainLayout);
-    window.show();                 // Отобразите окно
+    window.show();
 
     return app.exec();
 }

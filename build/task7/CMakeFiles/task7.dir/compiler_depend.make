@@ -357,13 +357,20 @@ task7/CMakeFiles/task7.dir/main.cpp.o: ../task7/main.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h
 
 task7/CMakeFiles/task7.dir/task7_autogen/mocs_compilation.cpp.o: task7/task7_autogen/mocs_compilation.cpp \
   /usr/include/stdc-predef.h
 
 
 task7/task7_autogen/mocs_compilation.cpp:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow:
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h:
 
@@ -446,6 +453,8 @@ task7/task7_autogen/mocs_compilation.cpp:
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qrect.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qpaintdevice.h:
 
