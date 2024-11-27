@@ -55,6 +55,11 @@
   "file": "/home/user/introduction-to-qt-tasks/task5/main.cpp"
 },
 {
+  "directory": "/home/user/introduction-to-qt-tasks/build/task5",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task5/task5_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task5.dir/CalculatorWidget.cpp.o -c /home/user/introduction-to-qt-tasks/task5/CalculatorWidget.cpp",
+  "file": "/home/user/introduction-to-qt-tasks/task5/CalculatorWidget.cpp"
+},
+{
   "directory": "/home/user/introduction-to-qt-tasks/build/task6",
   "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/introduction-to-qt-tasks/build/task6/task6_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/task6.dir/task6_autogen/mocs_compilation.cpp.o -c /home/user/introduction-to-qt-tasks/build/task6/task6_autogen/mocs_compilation.cpp",
   "file": "/home/user/introduction-to-qt-tasks/build/task6/task6_autogen/mocs_compilation.cpp"

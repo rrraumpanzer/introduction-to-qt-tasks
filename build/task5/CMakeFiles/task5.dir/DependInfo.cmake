@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/user/introduction-to-qt-tasks/task5/CalculatorWidget.cpp" "task5/CMakeFiles/task5.dir/CalculatorWidget.cpp.o" "gcc" "task5/CMakeFiles/task5.dir/CalculatorWidget.cpp.o.d"
   "/home/user/introduction-to-qt-tasks/task5/main.cpp" "task5/CMakeFiles/task5.dir/main.cpp.o" "gcc" "task5/CMakeFiles/task5.dir/main.cpp.o.d"
   "/home/user/introduction-to-qt-tasks/build/task5/task5_autogen/mocs_compilation.cpp" "task5/CMakeFiles/task5.dir/task5_autogen/mocs_compilation.cpp.o" "gcc" "task5/CMakeFiles/task5.dir/task5_autogen/mocs_compilation.cpp.o.d"
   )

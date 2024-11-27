@@ -144,6 +144,30 @@ task5_autogen/fast:
 	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5_autogen.dir/build.make task5/CMakeFiles/task5_autogen.dir/build
 .PHONY : task5_autogen/fast
 
+CalculatorWidget.o: CalculatorWidget.cpp.o
+.PHONY : CalculatorWidget.o
+
+# target to build an object file
+CalculatorWidget.cpp.o:
+	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5.dir/build.make task5/CMakeFiles/task5.dir/CalculatorWidget.cpp.o
+.PHONY : CalculatorWidget.cpp.o
+
+CalculatorWidget.i: CalculatorWidget.cpp.i
+.PHONY : CalculatorWidget.i
+
+# target to preprocess a source file
+CalculatorWidget.cpp.i:
+	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5.dir/build.make task5/CMakeFiles/task5.dir/CalculatorWidget.cpp.i
+.PHONY : CalculatorWidget.cpp.i
+
+CalculatorWidget.s: CalculatorWidget.cpp.s
+.PHONY : CalculatorWidget.s
+
+# target to generate assembly for a file
+CalculatorWidget.cpp.s:
+	cd /home/user/introduction-to-qt-tasks/build && $(MAKE) $(MAKESILENT) -f task5/CMakeFiles/task5.dir/build.make task5/CMakeFiles/task5.dir/CalculatorWidget.cpp.s
+.PHONY : CalculatorWidget.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -202,6 +226,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... task5_autogen"
 	@echo "... task5"
+	@echo "... CalculatorWidget.o"
+	@echo "... CalculatorWidget.i"
+	@echo "... CalculatorWidget.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

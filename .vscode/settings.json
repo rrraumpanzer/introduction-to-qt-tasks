@@ -6,6 +6,7 @@
         "qgridlayout": "cpp",
         "qvboxlayout": "cpp",
         "qtextstream": "cpp",
-        "qtextedit": "cpp"
+        "qtextedit": "cpp",
+        "qregularexpressionvalidator": "cpp"
     }
 }

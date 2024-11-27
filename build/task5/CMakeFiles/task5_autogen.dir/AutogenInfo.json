@@ -59,6 +59,11 @@
 	"SETTINGS_FILE" : "/home/user/introduction-to-qt-tasks/build/task5/CMakeFiles/task5_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/home/user/introduction-to-qt-tasks/task5/CalculatorWidget.cpp",
+			"MU",
+			null
+		],
 		[ "/home/user/introduction-to-qt-tasks/task5/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
