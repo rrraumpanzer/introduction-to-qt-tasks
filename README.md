@@ -23,6 +23,13 @@
 ### Скриншоты:
 <img src="screenshots/task1.png">
 
+### Видео:
+
+
+https://github.com/user-attachments/assets/e09e4963-42a5-4868-875a-270f218431b6
+
+
+
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task1/main.cpp)
 
@@ -37,6 +44,13 @@
 <img src="screenshots/task2_2.png">
 <img src="screenshots/task2_3.png">
 
+### Видео:
+
+
+https://github.com/user-attachments/assets/ba3983b3-0b4d-4560-8518-88dcc7dc0748
+
+
+
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task2/main.cpp)
 
@@ -48,6 +62,13 @@
 - [x] Создать форму с гибким расположением элементов.
 ### Скриншоты:
 <img src="screenshots/task3.png">
+
+### Видео:
+
+
+https://github.com/user-attachments/assets/bca9573a-b8df-43fb-8c03-f1d5cf1af2e6
+
+
 
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task3/main.cpp)
@@ -62,6 +83,13 @@
 ### Скриншоты:
 <img src="screenshots/task4_1.png">
 <img src="screenshots/task4_2.png">
+
+### Видео:
+
+
+https://github.com/user-attachments/assets/064a15e8-c264-444c-b809-060c038df83e
+
+
 
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task4/main.cpp)
@@ -78,6 +106,9 @@
 <img src="screenshots/task5_1.png">
 <img src="screenshots/task5_2.png">
 <img src="screenshots/task5_3.png">
+
+### Видео
+
 
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task5/main.cpp)
