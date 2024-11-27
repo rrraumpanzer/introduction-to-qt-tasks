@@ -126,6 +126,9 @@ https://github.com/user-attachments/assets/064a15e8-c264-444c-b809-060c038df83e
 <img src="screenshots/task6_2.png">
 <img src="screenshots/task6_3.png">
 
+### Видео: 
+
+
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task6/main.cpp)
 
@@ -141,6 +144,13 @@ https://github.com/user-attachments/assets/064a15e8-c264-444c-b809-060c038df83e
 <img src="screenshots/task7_2.png">
 <img src="screenshots/task7_3.png">
 
+### Видео:
+
+
+https://github.com/user-attachments/assets/8dd1bd15-9e1c-43cd-a6ed-224667d9f9a3
+
+
+
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task7/main.cpp)
 
@@ -154,6 +164,13 @@ https://github.com/user-attachments/assets/064a15e8-c264-444c-b809-060c038df83e
 <img src="screenshots/task8_1.png">
 <img src="screenshots/task8_2.png">
 <img src="screenshots/task8_3.png">
+
+### Видео:
+
+
+https://github.com/user-attachments/assets/e8ac98e0-d9dc-4426-a320-f2371d400cf1
+
+
 
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task8/main.cpp)
