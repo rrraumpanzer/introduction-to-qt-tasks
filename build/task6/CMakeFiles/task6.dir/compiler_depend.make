@@ -357,11 +357,14 @@ task6/CMakeFiles/task6.dir/main.cpp.o: ../task6/main.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHBoxLayout
 
 task6/CMakeFiles/task6.dir/task6_autogen/mocs_compilation.cpp.o: task6/task6_autogen/mocs_compilation.cpp \
   /usr/include/stdc-predef.h
 
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHBoxLayout:
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h:
 
