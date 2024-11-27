@@ -110,6 +110,10 @@ https://github.com/user-attachments/assets/064a15e8-c264-444c-b809-060c038df83e
 ### Видео
 
 
+https://github.com/user-attachments/assets/8f84b923-962f-476d-a2c7-d4a4c165b9f8
+
+
+
 ### Код приложения:
 [main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task5/main.cpp)
 
@@ -127,6 +131,10 @@ https://github.com/user-attachments/assets/064a15e8-c264-444c-b809-060c038df83e
 <img src="screenshots/task6_3.png">
 
 ### Видео: 
+
+
+https://github.com/user-attachments/assets/43a2c016-0ec9-44cc-ad5d-a38ce7929d53
+
 
 
 ### Код приложения:
