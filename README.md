@@ -22,8 +22,9 @@
 - [x] Создать окно с минимальным интерфейсом.
 ### Скриншоты:
 <img src="screenshots/task1.png">
-### Видео:
 
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task1/main.cpp)
 
 # Сигналы и слоты
 ### Цель:
@@ -35,8 +36,9 @@
 <img src="screenshots/task2_1.png">
 <img src="screenshots/task2_2.png">
 <img src="screenshots/task2_3.png">
-### Видео:
 
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task2/main.cpp)
 
 # Работа с формами и компоновкой виджетов
 ### Цель:
@@ -46,7 +48,9 @@
 - [x] Создать форму с гибким расположением элементов.
 ### Скриншоты:
 <img src="screenshots/task3.png">
-### Видео:
+
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task1/main.cpp)
 
 
 # Обработка событий мыши и клавиатуры
@@ -58,8 +62,11 @@
 ### Скриншоты:
 <img src="screenshots/task4_1.png">
 <img src="screenshots/task4_2.png">
-### Видео:
 
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task4/main.cpp)
+
+[CustomWidget.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task4/CustomWidget.cpp)
 
 # Создание простого калькулятора
 ### Цель:
@@ -71,8 +78,11 @@
 <img src="screenshots/task5_1.png">
 <img src="screenshots/task5_2.png">
 <img src="screenshots/task5_3.png">
-### Видео:
 
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task5/main.cpp)
+
+[CustomWidget.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task5/CalculatorWidget.cpp)
 
 # Приложение для конвертации валют
 ### Цель:
@@ -84,7 +94,9 @@
 <img src="screenshots/task6_1.png">
 <img src="screenshots/task6_2.png">
 <img src="screenshots/task6_3.png">
-### Видео:
+
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task6/main.cpp)
 
 
 # Создание графического текстового редактора
@@ -97,8 +109,9 @@
 <img src="screenshots/task7_1.png">
 <img src="screenshots/task7_2.png">
 <img src="screenshots/task7_3.png">
-### Видео:
 
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task7/main.cpp)
 
 # Мини-приложение для заметок
 ### Цель:
@@ -110,5 +123,7 @@
 <img src="screenshots/task8_1.png">
 <img src="screenshots/task8_2.png">
 <img src="screenshots/task8_3.png">
-### Видео:
+
+### Код приложения:
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task8/main.cpp)
 
