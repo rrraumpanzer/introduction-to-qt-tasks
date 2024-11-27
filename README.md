@@ -50,7 +50,7 @@
 <img src="screenshots/task3.png">
 
 ### Код приложения:
-[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task1/main.cpp)
+[main.cpp](https://github.com/rrraumpanzer/introduction-to-qt-tasks/blob/main/task3/main.cpp)
 
 
 # Обработка событий мыши и клавиатуры
